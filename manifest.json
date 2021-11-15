@@ -1,0 +1,25 @@
+{
+  "short_name": "HY Studio",
+  "name": "HY Studio 網頁工作室",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "apple-touch-icon-192x192.jpg",
+      "type": "image/jpg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "apple-touch-icon-600x600.jpg",
+      "type": "image/jpg",
+      "sizes": "600x600"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
